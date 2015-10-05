@@ -7,7 +7,7 @@ Project("{483C4B54-B89D-8E35-5778-8A3D3515158D}") = "Eclipse_Project", "Assembly
 EndProject
 Project("{483C4B54-B89D-8E35-5778-8A3D3515158D}") = "Eclipse_Project", "Assembly-CSharp-Editor.csproj", "{31848EF9-3BB6-B167-90C6-ADE7E9BFC0EC}"
 EndProject
-Project("{483C4B54-B89D-8E35-5778-8A3D3515158D}") = "Eclipse_Project", "Assembly-UnityScript-firstpass.unityproj", "{55BC8146-15CB-9436-5A00-F2F5D5C1B1EA}"
+Project("{483C4B54-B89D-8E35-5778-8A3D3515158D}") = "Eclipse_Project", "Assembly-UnityScript.unityproj", "{869FCDA0-061C-C2BE-EC84-B8BC6076566C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,15 +27,15 @@ Global
 		{31848EF9-3BB6-B167-90C6-ADE7E9BFC0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31848EF9-3BB6-B167-90C6-ADE7E9BFC0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31848EF9-3BB6-B167-90C6-ADE7E9BFC0EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{55BC8146-15CB-9436-5A00-F2F5D5C1B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55BC8146-15CB-9436-5A00-F2F5D5C1B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55BC8146-15CB-9436-5A00-F2F5D5C1B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55BC8146-15CB-9436-5A00-F2F5D5C1B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869FCDA0-061C-C2BE-EC84-B8BC6076566C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869FCDA0-061C-C2BE-EC84-B8BC6076566C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869FCDA0-061C-C2BE-EC84-B8BC6076566C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869FCDA0-061C-C2BE-EC84-B8BC6076566C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+												GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
